@@ -2,6 +2,8 @@
 
 ## Introduction
 This is a Twitter clone App.
+Front-End: https://github.com/Takeru0522/twitter-front-end
+Back-End: https://github.com/Takeru0522/twitter-back-end
 
 ## Stacks
 - JavaScript
